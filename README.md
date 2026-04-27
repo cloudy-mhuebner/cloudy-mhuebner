@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](https://raw.githubusercontent.com/cloudy-mhuebner/cloudy-mhuebner/main/assets/banner.png)
 ## Hi there 👋
 
 <!--
