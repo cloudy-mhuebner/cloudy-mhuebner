@@ -1,5 +1,5 @@
 ![Banner](https://github.com/cloudy-mhuebner/cloudy-mhuebner/blob/28d1087d6cd09de6fee823431ba9d1c390c61dee/assets/%20banner.png)
-## 👨‍💻 Profile
+<!--## 👨‍💻 Profile-->
 
 **Martin Hübner**  
 Senior Consultant – IT / Cloud Architecture  
